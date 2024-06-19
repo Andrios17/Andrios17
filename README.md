@@ -6,7 +6,8 @@ Skills: / REACT / JS / HTML / CSS / NODE.JS / EXPRESS.JS / PYTHON / FLASK / REST
 
 - 🔭 I’m currently working on an NBA Card Management API 
 - 🌱 I’m currently learning Flask and the wonderful world of APIs 
-- 👯 I’m looking to collaborate on just about anything, feel free to send me a message 
+- 👯 I’m looking to collaborate on just about anything, feel free to send me a message
+- 📫 How to reach me: alexander.andriopoulos@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Andrios17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexanderandriopoulos/)  

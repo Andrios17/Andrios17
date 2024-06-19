@@ -4,7 +4,7 @@ I'm Alexander from Sydney Australia. I have recently transitioned careers from t
 
 Skills: / REACT / JS / HTML / CSS / NODE.JS / EXPRESS.JS / PYTHON / FLASK / RESTFUL APIS / POSTGRESQL / MONGODB
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on an NBA Card Management API 
 - 🌱 I’m currently learning Flask and the wonderful world of APIs 
 - 👯 I’m looking to collaborate on just about anything, feel free to send me a message 
 
